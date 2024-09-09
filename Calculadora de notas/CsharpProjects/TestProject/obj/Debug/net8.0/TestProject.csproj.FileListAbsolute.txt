@@ -1,0 +1,28 @@
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\felip\Desktop\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\Felipe Romio\Desktop\curso microsoft\projetos C#\projeto com foreach\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
