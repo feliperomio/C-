@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\bin\Debug\net8.0\calculadora.exe
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\bin\Debug\net8.0\calculadora.deps.json
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\bin\Debug\net8.0\calculadora.dll
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\bin\Debug\net8.0\calculadora.pdb
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\calculadora.dll
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\calculadora.pdb
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Curso C# Udemy\calculadora\calculadora\obj\Debug\net8.0\ref\calculadora.dll
